@@ -10,6 +10,10 @@ This project looks at retail sales data to understand how sales change over time
 -Created dashboards in Power BI
 -Found sales trends and customer patterns
 
+## Data
+-raw/ --> original datasets
+-cleaned/--> processed datasets after cleaning
+
 ## Tools used
 -Pyhton
 -SQL
