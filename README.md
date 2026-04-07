@@ -14,6 +14,24 @@ This project looks at retail sales data to understand how sales change over time
 -raw/ --> original datasets
 -cleaned/--> processed datasets after cleaning
 
+## Dashboard Preview
+
+### Sales Overview
+![Sales Overview](sales_overview.png)
+
+### Customer Analysis
+![Customer Analysis](customer_analysis.png)
+
+### Product Performance
+![Product Performance](product_performance.png)
+
+### Store Analysis
+![Store Analysis](store_analysis.png)
+
+### Returns Analysis
+![Returns Analysis](returns_analysis.png)
+
+
 ## Tools used
 -Pyhton
 -SQL
